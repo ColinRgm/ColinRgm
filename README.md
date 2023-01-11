@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my personnal portfolio**
 
-- 🌱 I’m currently learning **JavaScript and PHP**
+- 🌱 I’m currently learning **JavaScript, PHP and C#**
 
 - 📫 How to reach me **colin.regamey@icloud.com**
 
