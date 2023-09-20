@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **colin.regamey@icloud.com**
 
-- ⚡ Fun fact **I'm 23 but I look like 12**
+- ⚡ Fun fact **I'm 24 but I look like 12**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
